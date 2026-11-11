@@ -1,6 +1,6 @@
 # Formação de times em PjBL com equidade e memória entre módulos
 
-Código, dados e resultados do artigo **“Otimização multiobjetivo da formação de times em PjBL com
+Código, dados e resultados do artigo **“Otimização da formação de times em PjBL com
 restrição de equidade e memória entre módulos”**.
 
 O repositório compara sete políticas de formação de times ao longo de oito módulos de um currículo
